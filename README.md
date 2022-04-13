@@ -12,7 +12,7 @@ The main goal of this test is to estimate your technical knowledge on Laravel fr
   - Charset `utf8mb4`
   - Collation `utf8mb4_general_ci`
 
-## Exercice
+## Exercise
 
 - Create a `CustomerResource` for the API, exposing properly customers and their stores.
 - Add a `has_optin` field (boolean). This optin is the customer's approval for receiving commercial messages.
@@ -31,12 +31,12 @@ The main goal of this test is to estimate your technical knowledge on Laravel fr
 
 ## Contacts
 
-If you need anything, you can contact Xavier - CTO : xavier@heypongo.com.
+If you need anything, you can contact Xavier - CTO: xavier@heypongo.com.
 
 # About Pongo
 
 What if we could turn visits into long-term relationships ?
 
-At Pongo, we erase all the frictions in the customer journey : no app to download, no loyalty card to carry, no registration form to fill in. With a touchscreen integrated to the point-of-sale, we help merchants to create different types of customer engagement systems (game contests, loyalty programs, sponsorship, private events...).
+At Pongo, we erase all the frictions in the customer journey: no app to download, no loyalty card to carry, no registration form to fill in. With a touchscreen integrated to the point-of-sale, we help merchants to create different types of customer engagement systems (game contests, loyalty programs, sponsorship, private events...).
 
 Customers easily sign up and check in with their phone number and are rewarded for their loyalty. We help merchants by sending automated text messages via our SMS chatbot to collect more accurate customer information and offer incentives to bring back lost customers.
